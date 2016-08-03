@@ -1,4 +1,3 @@
-layout_spectrum: 0.7500010111834854
 typography_spectrum: 0.5456686555407941
 color:
   brandStrength: 0.35330533399246633
@@ -11,5 +10,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.7500010111834854
 name: Will Gurley
 title: Portfolio
+description: Design & Art
